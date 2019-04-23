@@ -1,0 +1,25 @@
+/* Remove all margins to get a full screen canvas with black background */
+html, body {
+	overflow: hidden;
+}
+
+body {
+	background-color: black;
+	padding: 0px; 
+	margin: 0px;
+}
+
+/* Controls the style of the top menu */
+#buttons {
+	font-family: sans-serif;
+	font-size: 14px;
+	color: white;
+	display: flex;
+	max-width: 100%;
+	justify-content: space-between;
+	align-items: center; /* align vertical */
+	margin: 3px;
+	border-bottom-color: white;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
