@@ -4,4 +4,4 @@ It consists of a 2D drawing board capable of displaying some polygons and rays t
 
 The instructions are pretty basic, since the software is almost self-explanatory. To run it just clone the repository and open index.html on your browser.
 
-Live version of this code is available [here](http://www.if.ufrj.br/~ferrao/cg).
+Live version of this code is available [here](http://www.if.ufrj.br/~ferrao/cg/raycast).
